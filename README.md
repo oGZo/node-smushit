@@ -3,7 +3,7 @@ node-smushit
 
 using smush.it service to optimize image(s) in node
 
-How to use?
+How to use? 11
 ------------
 
 install by NPM
