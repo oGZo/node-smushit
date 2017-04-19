@@ -5,6 +5,7 @@ using smush.it service to optimize image(s) in node
 
 How to use? 23456789101
 1
+2
 
 install by NPM 456
 
