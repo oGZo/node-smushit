@@ -3,7 +3,7 @@ node-smushit
 
 using smush.it service to optimize image(s) in node
 
-How to use? 234567
+How to use? 23456789
 
 
 install by NPM 456
