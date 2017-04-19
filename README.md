@@ -6,7 +6,7 @@ using smush.it service to optimize image(s) in node
 How to use? 123
 ------------
 
-install by NPM
+install by NPM 456
 
 ```shell
 npm install node-smushit -g
